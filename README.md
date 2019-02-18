@@ -22,5 +22,6 @@ The main features are:
 
 
 ### Further Information
-If you want to know how this work, it available the [presentation](https://github.com/uazadi/ARMED/blob/master/docs/Analogy-based_Recommender_system_of_multi-ethnic_dishes.pdf);
+If you want to know how this work, it available the [presentation](https://github.com/uazadi/ARMED/blob/master/docs/Analogy-based_Recommender_system_of_multi-ethnic_dishes.pdf).
+
 Furthermore, you can contact me at the following email address: u.azadi@outlook.com (Please insert ARMED in the subject)
