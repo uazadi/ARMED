@@ -102,9 +102,8 @@ cuisines = ["african", "american",  "british", "caribbean",
            "turkish_and_middle_eastern"]
 
 
-#"dairy_free", "egg_free", "gluten_free", "nut_free", "pregnancy_friendly",
-# "vegan", "vegetarian",
-diets = ["low_Glycemic_Index", "Low_calorie"]
+diets = ["dairy_free", "egg_free", "gluten_free", "nut_free", "vegan", 
+		 "vegetarian", "pregnancy_friendly","low_Glycemic_Index", "Low_calorie"]
 
 
 recepies_dataset = "/home/umberto/Desktop/Filters/"
