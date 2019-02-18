@@ -10,6 +10,10 @@ The main features are:
 * Keep into consideration __specific diets__ such as: vegetarian, vegan, dairy-free, ...
 * Allow the users to __add their own recipes__ and use them to obtain the recommendations
 
+<p align="center">
+  <img src="https://github.com/uazadi/ARMED/blob/master/docs/Analogy.png">
+</p>
+
 ### What is shared through this repository?
 * The scripts that accomplish the __crawling process__ through which the recipes have been downloaded from [BBC Food](https://www.bbc.com/food) (available [here](https://github.com/uazadi/ARMED/tree/master/src/crawling));
 * The jupyter notebook through which the __recepies and images embedding__ can be explored (available [here](https://github.com/uazadi/ARMED/tree/master/src/notebook_for_embedding)); 
