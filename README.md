@@ -18,3 +18,4 @@ The main features are:
 * The scripts that accomplish the __crawling process__ through which the recipes have been downloaded from [BBC Food](https://www.bbc.com/food) (available [here](https://github.com/uazadi/ARMED/tree/master/src/crawling));
 * The jupyter notebook through which the __recepies and images embedding__ can be explored (available [here](https://github.com/uazadi/ARMED/tree/master/src/notebook_for_embedding)); 
 * The __"ready-to-use" application__ comprehensive of the GUI that allows to exploit the main functionalities described above (available [here](https://github.com/uazadi/ARMED/tree/master/src))
+* Furthermore all the data can be downloaded from [here](https://drive.google.com/file/d/1nPeekA4nwi8ntV0Nkbde5dTvsDwOpr-_/view?usp=sharing) (lonk to Google Drive)
