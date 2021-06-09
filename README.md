@@ -1,7 +1,7 @@
 # ARMED
 ## Analogy-based Recommender system of multi-ethnic dishes
 
-Recently, even in the smallest town of Italy can be found an increasing number of restaurants that offer dishes originated from __all over the world__. With such a heterogeneous offer it is likely that the average person will not know a priori which type of cuisine or more specifically which dishes will be likely to meet his/her taste.
+Recently, even in the smallest town of Italy it can be found an increasing number of restaurants that offer dishes originated from __all over the world__. With such a heterogeneous offer it is likely that the average person will not know a priori which type of cuisine or more specifically which dishes will be likely to meet his/her taste.
 
 The purpose of this project is to support the customers in this specific decision making step, by __suggesting them a dish of a cuisine never tasted before based on their preferences in a known cuisine__, as for example the cuisine of their home country.
 
